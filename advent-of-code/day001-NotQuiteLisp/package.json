@@ -1,0 +1,16 @@
+{
+  "name": "day001-NotQuiteLisp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "node ./test/solution.test.js && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
